@@ -1,0 +1,31 @@
+{
+    "producto":[
+        {
+            "id":1,
+            "name":"Limon con semilla",
+            "precio":2682,
+            "img":"img/limón-verde-29332614.jpg"
+        },
+
+        {
+            "id":2,
+            "name":"Tomate",
+            "precio":21.79,
+            "img":"https://cdn.shopify.com/s/files/1/0303/8376/7687/products/tomate_saladette_530x@2x.jpg?v=1579282251"
+        },
+
+        {
+            "id":3,
+            "name":"Aguacate Hass",
+            "precio":56.8,
+            "img":"https://agroaldea.es/wp-content/uploads/2015/10/aguacate_11jun.jpg"
+        },
+
+        {
+            "id":4,
+            "name":"Tomate verde sin cascara",
+            "precio":25.8,
+            "img":"https://image.freepik.com/foto-gratis/tomate-verde-aislado-sobre-fondo-blanco_26628-732.jpg"
+        }
+    ]
+}
