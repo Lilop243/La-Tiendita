@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded",() => {
                     <h4 class="text-dark">${precio}<span class="text-secondary">$26.82/kg</span></h4>
                         <p class="card-text text-dark-50 description">${name}</p>
                             <div class="d-grid gap-2">
-                            <a href="#"><button type="button" class="btn btn-primary" onclick="btn(${id})">Eliminar</button></a>
+                            <button type="button" class="btn btn-primary" onclick="btn(${id})"><a href="#"></a>Eliminar</button>
     </div>
         </div>
                             </div>
